@@ -30,3 +30,4 @@ images:
   k8s.gcr.io/pause: weilk/pause
   k8s.gcr.io/etcd: weilk/etcd
   coredns/coredns: weilk/coredns
+
